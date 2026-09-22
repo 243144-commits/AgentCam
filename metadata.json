@@ -1,0 +1,6 @@
+{
+  "name": "AgentC - AI Border Surveillance & Command Platform",
+  "description": "Intelligent border video analytics and command platform converting raw CCTV feeds into multi-camera correlated incidents, real-time threat detection, and tactical decision support.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
